@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**atul-ram/atul-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for dropping by. 
+I am passionate about assisting customers in developing cloud-based solutions, analyze resource, service interaction and provide recommendations to address customers' technical and business needs. 
 
 Here are some ideas to get you started:
 
